@@ -1,0 +1,8 @@
+Today I will finish my research Project. 
+
+In which I will first learn the ConvNet, EfficientNet and Vision Transformer Architecture and compare it with the Old Traditional Model.
+
+Earlier in the last semester I have used Plant Disease Classification Dataset contains 87000 image dataset and make the Classification model like ANN,CNN and finetuned VGG16 and DenseNet121.
+
+Along with this in last semester I also had made the 2-3 developement projects across different languages like JS, Python and used Django, FastAPI, Express and other frameworks for backend. Along with it....I also made frontend using the React but didn't use redux.
+
